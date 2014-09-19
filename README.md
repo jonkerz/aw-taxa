@@ -30,6 +30,7 @@ or
 
 ### Example output
 $python aw_taxa.py acromyrmex
+
     taxon = Acromyrmex
     include_author_citations = True
     include_subspecies = False
