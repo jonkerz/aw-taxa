@@ -2,8 +2,9 @@
 Python script used to generate a wiki formatted list of ant genera/species from [AntWeb's](http://www.antweb.org/) catalog.
 
 ### Download
-    .....
-
+    git clone https://github.com/jonkerz/aw-taxa
+    cd aw-taxa/
+    
 ### Requirements
     pip install -r requirements.txt
     
