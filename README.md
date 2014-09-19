@@ -28,15 +28,14 @@ or
         -f FILE, --file FILE  input file, default=null
 
 ### Example output
-$python aw_species.py Acromyrmex
-
-    genus = Acromyrmex
+$python aw_taxa.py acromyrmex
+    taxon = Acromyrmex
     include_author_citations = True
     include_subspecies = False
-    url = http://www.antweb.org/browse.do?rank=genus&genus=Acromyrmex&project=worldants
+    url = http://www.antweb.org/browse.do?rank=genus&genus=acromyrmex&project=worldants
 
-    Downloadling page...
-    http://www.antweb.org/browse.do?rank=genus&genus=Acromyrmex&project=worldants downloaded successfully
+    Downloading page...
+    http://www.antweb.org/browse.do?rank=genus&genus=acromyrmex&project=worldants downloaded successfully
 
     Parsing HTML...
 
