@@ -27,7 +27,7 @@ else:
 
 url = "http://www.antweb.org/browse.do?rank=genus&genus=%s&project=worldants" % target_taxon
 
-print "genus =", target_taxon.capitalize()
+print "taxon =", target_taxon.capitalize()
 print "include_author_citations =", include_author_citations
 print "include_subspecies =", include_subspecies
 
